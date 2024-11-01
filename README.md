@@ -1,2 +1,5 @@
-# portafolio_tutorial
-691P Class Activity
+# Prtafolio Tutorial
+
+(Yes, port'a'folio on purpose)
+
+It's a 691P Class Activity 🤷‍♂️
