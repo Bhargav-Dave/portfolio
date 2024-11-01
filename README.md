@@ -1,4 +1,4 @@
-# Prtafolio Tutorial
+# Portafolio Tutorial
 
 (Yes, port'a'folio on purpose)
 
