@@ -1,6 +1,6 @@
 # Bhargav Dave
 
-![Profile Picture](path/to/your/image.jpg)
+![Profile Picture](images/portfolio-image.jpg)
 
 ---
 
